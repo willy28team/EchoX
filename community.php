@@ -724,7 +724,7 @@ if (!empty($whitelist)) {
                 </form>
 
                 <h3>Echommunity Posts</h3>
-                <form method="GET" action="community.php" method="post" enctype="multipart/form-data" class="create-post-form">
+                <form action="community.php" method="post" enctype="multipart/form-data" class="create-post-form">
                     <div class="search-container">
                         <textarea 
                             id="searchText"
